@@ -3,4 +3,4 @@ This is a Opencore EFI Hackintosh bigsur(Ivy Bridge) , running on Hp small form 
 
 If you use the same model, feel free to use the Opencore EFI folder. Just don't forget to generate a new serial for your machine.
 
-ENJOY
+ENJOY, STAY SAFE
